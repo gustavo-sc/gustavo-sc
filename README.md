@@ -2,7 +2,7 @@
 
 Olá, tudo bem ?? me chamo Gustavo Costa
 
-Comei a estudar programação ha uns cinco meses
+Comei a estudar programação há alguns meses
 
 ## Meus hobbies
 
@@ -11,7 +11,6 @@ Comei a estudar programação ha uns cinco meses
 ## Atualmente estou estudando 
 
 - Python
-
 
 ## Meus contatos
 
